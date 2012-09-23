@@ -17,14 +17,14 @@ It was exported from Blender with a customized raw binary exporter.
 
 Keys
 ----
-* SpaceBar or most other unused keys      - go to the next scene
-* up arrow							                  - adjust the camera's pitch -
-* down arrow									            - adjust the camera's pitch +
-* left arrow									            - rotate the camera around the scene in the clockwise direction
-* right arrow									            - rotate the camera around the scene in the counter clockwise direction
-* +											                  - move the camera closer to the object(s)
-* -											                  - move the camera away from the object(s)
-* Esc											                - quits the program
+* _Spacebar or most other unused keys_: go to the next scene
+* _up arrow_: adjust the camera's pitch -
+* _down arrow_: adjust the camera's pitch +
+* _left arrow_: rotate the camera around the scene in the clockwise direction
+* _right arrow_: rotate the camera around the scene in the counter clockwise direction
+* _+_: move the camera closer to the object(s)
+* _-_: move the camera away from the object(s)
+* _Esc_: quits the program
 
 Author
 ------
