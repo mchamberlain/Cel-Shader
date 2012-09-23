@@ -3,3 +3,10 @@ CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
+build/
+
+*.dll
+*.lib
+*.so
+*.a
+*.o
