@@ -58,7 +58,7 @@ ELSE (WIN32)
     )
 
     FIND_LIBRARY(GLEW_LIBRARY
-      NAMES glew
+      NAMES GLEW
       PATHS /opt/graphics/OpenGL/lib
             /usr/openwin/lib
             /usr/shlib /usr/X11R6/lib
